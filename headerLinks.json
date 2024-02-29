@@ -1,0 +1,39 @@
+[
+    {
+        "text":"CLOTHING",
+        "link":"/"
+    },
+    {
+        "text":"SHOES",
+        "link":"/"
+    },
+    {
+        "text":"HANDBAGS",
+        "link":"/"
+    },
+    {
+        "text":"DESIGNERS",
+        "link":"/"
+    },
+    {
+        "text":"SUNGLASSES",
+        "link":"/"
+    },
+    {
+        "text":"JEWELRY & WATCHES",
+        "link":"/"
+    },
+    {
+        "text":"ACCESSORIES",
+        "link":"/"
+    },
+    {
+        "text":"HOME",
+        "link":"/contact"
+    },
+    {
+        "text":"UNDER $50",
+        "link":"/about"
+    }
+]
+
